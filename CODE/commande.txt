@@ -1,0 +1,3 @@
+RESETDB
+CREATE TABLE R (premier:INT,second:FLOAT,trois:INT,quatre:INT,cinq:INT)
+IMPORT INTO R S.csv

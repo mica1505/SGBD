@@ -1,0 +1,3 @@
+corriger le VARSTRING
+quand on ecrit un record on ecrase les anciens
+corriger les lectures et ecritures(position du buffer)
